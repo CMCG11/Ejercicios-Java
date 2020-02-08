@@ -2,8 +2,7 @@
 /*Ejemplo:*/
 /*Horas: 5*/
 /*Minutos:15*/
-
-Segundos:8 
+/*Segundos:8 */
 public class Time{
 	public static void main(String[] args){
 	/*Definimos las variables*/
